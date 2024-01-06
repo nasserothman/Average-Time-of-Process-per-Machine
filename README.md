@@ -1,5 +1,5 @@
 # Average-Time-of-Process-per-Machine
-## A SQL cosing challenge
+## A SQL coding challenge
 
 Table: Activity
 
